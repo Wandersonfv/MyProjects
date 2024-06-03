@@ -1,0 +1,27 @@
+@import url('../../App.css');
+
+
+.input{
+    display: flex;
+    align-items: center;
+    background-color: var(--azul4);
+    padding: 3px;
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+
+
+}
+
+
+.input > input{
+    width: 150px;
+
+}
+.input > .icone{
+    color: var(-branco);
+    background-color: var(--azul4);
+    width: 50px;
+    
+    
+}

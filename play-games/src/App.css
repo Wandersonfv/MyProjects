@@ -1,0 +1,17 @@
+*{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+:root{
+  --branco: #F2F2F2;
+  --azul1: #84B1D9;
+  --azul2: #4184BF;
+  --azul3: #035AA6;
+  --azul4: #084DA6;
+
+}
+
